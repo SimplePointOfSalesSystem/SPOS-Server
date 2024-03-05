@@ -1,5 +1,5 @@
 # Simple-PointOfSales System - ServerSide Program
-## Simplr-POSのサーバサイド処理プログラム
+## Simple-POSのサーバサイド処理プログラム
 
 ## どんなソフト？
 扱いの難しい、かつクライアント側に制限のあるPOSシステムを、APIで利用できるようにすることで簡単に扱えるようにしたプログラムです。  
